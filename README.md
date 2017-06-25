@@ -1,7 +1,7 @@
 Play API
 ========
 
-Python API to access app statistics of different apps on the play store.
+Python API to access statistics of apps on the play store.
 
 ```
 from play import PlayAPI
